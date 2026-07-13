@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": "post3 (1)",
+      "media_path": "posts/post3(1).jpg",
+      "caption": "Minha primeira postagem agendada! 🚀 #automacao",
+      "date": "2026-07-06",
+      "time": "14:32",
+      "type": "photo",
+      "posted": false
+    }
+  ]
+}
